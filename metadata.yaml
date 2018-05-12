@@ -1,0 +1,40 @@
+_repo: A-Journey-to-Ohio-in-1810-as-Recorded-in-the-Journal-of-Margaret-Van-Horn-Dwight_36126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dwight, Margaret Van Horn
+    alias: Bell, Margaret Van Horn Dwight
+    birthdate: 1790
+    deathdate: 1834
+    gutenberg_agent_id: '38091'
+    url: http://www.gutenberg.org/2009/agents/38091
+  editor:
+    agent_name: Farrand, Max
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '1093'
+    url: http://www.gutenberg.org/2009/agents/1093
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Dwight, Margaret Van Horn, 1790-1834 -- Diaries'
+- !lcsh 'Ohio -- Description and travel'
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Atlantic States -- Description and travel'
+- !lcsh 'Pennsylvania -- Description and travel'
+title: A Journey to Ohio in 1810, as Recorded in the Journal of Margaret Van Horn
+  Dwight
+url: http://www.gutenberg.org/ebooks/36126
